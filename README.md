@@ -17,14 +17,14 @@
 
 1. **下载后启用宏**（文件后缀必须是 `.xlsm` 或 `.xlam`）  
 2. **在单元格里直接写公式**，比如：  
-   - `=LegalRestDay(TODAY())` → 显示今天之后所有假期  
+   - `=NETWORKDAYS.INTL("2025-9-29","2025-10-9","0000000",LegalRestDay())` → 计算两个日期之间的所有工作日数
+   - `=LegalRestDay(TODAY())` → 显示今天之后所有假期
    - `=LegalRestDay(2024)` → 显示 2024 全年假期  
 3. 联网时会自动同步最新数据到后台  
 
 ## 注意
 
 - **数据来源**：[laomor/holiday-data](https://github.com/laomor/holiday-data) 这个 GitHub 仓库  
-- 第一次使用需要允许 Excel 联网（弹窗点“允许”）  
 - 如果公司网络限制 GitHub 访问，可能无法更新  
 
-*（用起来就像个带自动更新功能的日历查询器，数据维护交给 GitHub，本地只管用）*
+*（用起来就像个带自动更新功能的日历查询器，数据维护交给 GitHub 作者，您只管用）*
