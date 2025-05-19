@@ -10,8 +10,8 @@
 ## 怎么用？
 
 1. **将下载的`.xlam`文件在Excel中进行加载项导入**
-  1. 将文件放置在`C:\Users\Users\AppData\Roaming\Microsoft\AddIns`文件夹下
-  2. Excel操作步骤：文件 → 选项 → 加载项 → Excel 加载项 转到 → 勾选加载项以启用
+   1. 将文件放置在`C:\Users\Users\AppData\Roaming\Microsoft\AddIns`文件夹下
+   2. Excel操作步骤：文件 → 选项 → 加载项 → Excel 加载项 转到 → 勾选加载项以启用
 
 2. **在单元格里直接写公式**，比如：
    - `=NETWORKDAYS.INTL("2025-9-29","2025-10-9","0000000",LegalRestDay())` → 计算两个日期之间的所有工作日数
