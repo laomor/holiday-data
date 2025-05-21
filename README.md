@@ -9,7 +9,7 @@
 
 ## 怎么用？
 
-1. **将下载的`.xlam`文件在Excel中进行加载项导入**
+1. **将下载的`[.xlam]`（https://objects.githubusercontent.com/github-production-release-asset-2e65be/983929041/1d79fc71-d553-4529-ac77-bdf41f0bbf73?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250521T030219Z&X-Amz-Expires=300&X-Amz-Signature=fa31361d5777e9935729802bf82bd7ed3bd03ed53a7de33f88121b3aa328b176&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DLegalRestDay_EX.xlam&response-content-type=application%2Foctet-stream）文件在Excel中进行加载项导入**
    1. 将文件放置在`C:\Users\Users\AppData\Roaming\Microsoft\AddIns`文件夹下
    2. Excel操作步骤：`文件` → `选项` → `加载项` → `Excel 加载项 转到` → `勾选加载项以启用`
 
