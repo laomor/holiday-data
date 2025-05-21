@@ -24,7 +24,7 @@
 - 每年 12 月自动下载下一年的假期数据
 - 打开文件时静默检查更新（需要联网）
 - 更新失败不影响已有数据使用
-- **数据来源**：[laomor/holiday-data](https://github.com/laomor/holiday-data/All%20Years) 这个 GitHub 仓库
+- **数据来源**：[laomor/holiday-data/All Years](https://github.com/laomor/holiday-data/tree/main/All%20Years) 这个 GitHub 仓库
 
 ## 注意事项
 - 如果公司网络限制 GitHub 访问，可能无法更新
