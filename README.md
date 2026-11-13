@@ -9,7 +9,7 @@
 
 ## 怎么用？
 
-1. **将下载的[`.xlam`](https://release-assets.githubusercontent.com/github-production-release-asset/983929041/1d79fc71-d553-4529-ac77-bdf41f0bbf73?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-11-13T01%3A30%3A24Z&rscd=attachment%3B+filename%3DLegalRestDay_EX.xlam&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-11-13T00%3A30%3A10Z&ske=2026-11-13T01%3A30%3A24Z&sks=b&skv=2018-11-09&sig=yhTTMg67CBVIR14Trc18MIZdO%2FKUySC3Re0Jvd9R8XE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5NDUzMTY0NSwibmJmIjoxNzk0NTMxMzQ1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.pU52FUMjmO5xrJ-WRmbTJtzEqdW7uiOhMGYFw1-0mhQ&response-content-disposition=attachment%3B%20filename%3DLegalRestDay_EX.xlam&response-content-type=application%2Foctet-stream)文件在Excel中进行加载项导入**
+1. **将下载的[`.xlam`](https://github.com/laomor/holiday-data/releases/download/%E5%8A%A0%E8%BD%BD%E9%A1%B9%E6%96%87%E4%BB%B6/LegalRestDay_EX.xlam)文件在Excel中进行加载项导入**
    1. 将文件放置在`C:\Users\Users\AppData\Roaming\Microsoft\AddIns`文件夹下
    2. Excel操作步骤：`文件` → `选项` → `加载项` → `Excel 加载项 转到` → `勾选加载项以启用`
 
